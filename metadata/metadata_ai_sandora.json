@@ -1,7 +1,8 @@
 {
-  "name": "AI Sandora",
-  "symbol": "$AIS",
+  "name": "AI_Sandora",
+  "symbol": "AIS",
   "description": "The AI Sandora Token (AIS) is a utility token designed to power the AI Sandora ecosystem. Unlike general-purpose crypto tokens, AIS is purpose-built for AI agency projects, ensuring that value, governance, and innovation remain tightly focused on AI solutions, automation platforms, and enterprise-grade tools. The AI Sandora Token (AIS) is a utility token designed to power the AI Sandora ecosystem. Unlike general-purpose crypto tokens, AIS is purpose-built for AI agency projects, ensuring that value, governance, and innovation remain tightly focused on AI solutions, automation platforms, and enterprise-grade tools.",
   "image": "https://raw.githubusercontent.com/aisandola/public/refs/heads/main/metadata/Ai-sandoracoin.png"
 }
+
 
